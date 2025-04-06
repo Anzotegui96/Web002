@@ -1,5 +1,5 @@
 .home {
-    background-image: url(./IMG/red_violeta.jpg);
+    background-image: url(./IMG/particula_obscuro.jpg);
     background-size: cover;
     background-position: center;
   }
@@ -32,12 +32,12 @@
 }
 
 .RoadMap {
-    background-image: url(./IMG/red_azul.jpg);
+    background-image: url(./IMG/particula_obscuro.jpg);
     background-size: auto;
 }
 
 .TitleRM {
-    color: rgb(182, 188, 194);
+    color: rgb(255, 255, 255);
     text-align: center;
     font-family: cursive;
     font-size: 35px;
@@ -48,13 +48,13 @@
 }
 
 .Certificacion {
-    background-image: url(./IMG/ojo.png);
+    background-image: url(./IMG/particula_obscuro.jpg);
     background-size: cover;
     background-color: bisque;
 }
 
 .Certificacion {
-    background-image: url(./IMG/ojo.png);
+    background-image: url(./IMG/particula_obscuro.jpg);
     background-size: cover;
     background-color: bisque;
 }
@@ -66,7 +66,7 @@
 }
 
 .Glosario {
-    background-image: url(./IMG/ojo.png);
+    background-image: url(./IMG/particula_obscuro.jpg);
     background-size: cover;
     background-color: bisque;
 }
