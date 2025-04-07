@@ -1,7 +1,8 @@
 .home {
-    background-image: url(./IMG/particula_obscuro.jpg);
+    /*background-image: url(./IMG/particula_obscuro.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: center;*/
+    background-image: linear-gradient(to right top, #0059e0, #0094ff, #00bddf, #00db84, #a8eb12);
   }
 
 .LinkHome {
@@ -18,7 +19,7 @@
 }
 
 .pHome {
-    color: red;
+    color: rgb(248, 130, 34);
     text-align: justify;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 20px;
@@ -32,8 +33,9 @@
 }
 
 .RoadMap {
-    background-image: url(./IMG/particula_obscuro.jpg);
-    background-size: auto;
+    /*background-image: url(./IMG/particula_obscuro.jpg);
+    background-size: auto;*/
+    background-image: linear-gradient(to right top, #0059e0, #0094ff, #00bddf, #00db84, #a8eb12);
 }
 
 .TitleRM {
@@ -48,25 +50,29 @@
 }
 
 .Certificacion {
-    background-image: url(./IMG/particula_obscuro.jpg);
+    /*background-image: url(./IMG/particula_obscuro.jpg);
     background-size: cover;
-    background-color: bisque;
+    background-color: bisque;*/
+    background-image: linear-gradient(to right top, #0059e0, #0094ff, #00bddf, #00db84, #a8eb12);
 }
 
 .Certificacion {
-    background-image: url(./IMG/particula_obscuro.jpg);
+    /*background-image: url(./IMG/particula_obscuro.jpg);
     background-size: cover;
-    background-color: bisque;
+    background-color: bisque;*/
+    background-image: linear-gradient(to right top, #0059e0, #0094ff, #00bddf, #00db84, #a8eb12);
 }
 
 .OS {
-    background-image: url(./IMG/particula_obscuro.jpg);
+    /*background-image: url(./IMG/particula_obscuro.jpg);
     background-size: cover;
-    background-color: bisque;
+    background-color: bisque;*/
+    background-image: linear-gradient(to right top, #0059e0, #0094ff, #00bddf, #00db84, #a8eb12);
 }
 
 .Glosario {
-    background-image: url(./IMG/particula_obscuro.jpg);
+    /*background-image: url(./IMG/particula_obscuro.jpg);
     background-size: cover;
-    background-color: bisque;
+    background-color: bisque;*/
+    background-image: linear-gradient(to right top, #0059e0, #0094ff, #00bddf, #00db84, #a8eb12);
 }
