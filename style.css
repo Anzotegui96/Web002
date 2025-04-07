@@ -19,7 +19,7 @@
 }
 
 .pHome {
-    color: rgb(248, 130, 34);
+    color: #000b58;
     text-align: justify;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 20px;
@@ -39,14 +39,14 @@
 }
 
 .TitleRM {
-    color: rgb(255, 255, 255);
+    color: #18230f;
     text-align: center;
     font-family: cursive;
     font-size: 35px;
 }
 
 .SubT {
-    color: rgb(240, 160, 11);
+    color: #8e1616;
 }
 
 .Certificacion {
