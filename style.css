@@ -76,3 +76,11 @@
     background-color: bisque;*/
     background-image: linear-gradient(to right top, #0059e0, #0094ff, #00bddf, #00db84, #a8eb12);
 }
+
+.ImgLeft {
+    text-align: left;
+}
+
+.ImgRight {
+    text-align: right;
+}
